@@ -1,0 +1,12 @@
+C:\Users\josef\source\repos\House\House\bin\Debug\House.exe.config
+C:\Users\josef\source\repos\House\House\bin\Debug\House.exe
+C:\Users\josef\source\repos\House\House\bin\Debug\House.pdb
+C:\Users\josef\source\repos\House\House\obj\Debug\House.csprojAssemblyReference.cache
+C:\Users\josef\source\repos\House\House\obj\Debug\House.Properties.Resources.resources
+C:\Users\josef\source\repos\House\House\obj\Debug\House.csproj.GenerateResource.cache
+C:\Users\josef\source\repos\House\House\obj\Debug\House.csproj.CoreCompileInputs.cache
+C:\Users\josef\source\repos\House\House\obj\Debug\House.exe
+C:\Users\josef\source\repos\House\House\obj\Debug\House.pdb
+C:\Users\josef\source\repos\House\House\obj\Debug\House.SmartHouse.resources
+C:\Users\josef\source\repos\House\House\obj\Debug\House.FirstFloor.resources
+C:\Users\josef\source\repos\House\House\obj\Debug\House.SecondFloor.resources
